@@ -1,1 +1,4 @@
-Here your files build
+Urho3D and Qt5 with CMAKE
+=========================
+
+By sc.
