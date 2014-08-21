@@ -24,7 +24,6 @@ include_directories(${URHO3D_INCLUDE_DIRS})
 # CMake modules: define enviroment variable "CMAKE_PREFIX_PATH" or define inline
 #set(CMAKE_PREFIX_PATH "C://Qt//Qt5.3.1_64//5.3//msvc2013_64_opengl" CACHE PATH "Path to Qt5-specific CMake modules")
 
-set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 #set(CMAKE_AUTOMOC ON)
 add_definitions(${QT_DEFINITIONS})
